@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 #include <ctime>
@@ -6,6 +5,7 @@
 #include "classe.h"
 #include "acampamento.h"
 
-int main(int argc, char** argv){
+void AcampamentoHeroi(struct Personagem &p){
 
+    std::cout << "Esse é nosso acampamento" << std::endl;
 }
